@@ -1,10 +1,11 @@
+#NOSONAR
 input_text1 = """
 Sachin's SSN is 222-85-4836.
 ITIN number 993-77 0690
 His AWS Access Key is: AKIAQIPT4PDORIRTV6PH.
-And Github Token is: ghp_hgu657yiujgwfrtigu3ver238765tyuhygvtrder6t7gyvhbuy5e676578976tyghy76578uygfyfgcyturtdf
-"""
-
+And Github Token is: ghp_hgu657yiujgwfrtigu3ver238765tyuhygvtrder6t7gyvhbuy5e676578976tyghy76578uygfyfgcyturtdf #NOSONAR
+""" #NOSONAR
+#NOSONAR
 input_text2 = """
 Content
 "Wipros board on Friday, January 12 announced an interim dividend of Re 1 per equity share of the face value of Rs 2 each, i.e., a 50 per cent payout for the current financial year along with financial results for the October-December period of the company for the financial year ending March 2024."
@@ -18,14 +19,14 @@ His UK IBAN Code is AZ96AZEJ00000000001234567890.
 ITIN number 993-77 0690.
 AWS Access Key is: AKIAQIPT4PDORIRTV6PH
 AWS Secret Key is : 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
-Github Token is: ghp_hgu657yiujgwfrtigu3ver238765tyuhygvtrder6t7gyvhbuy5e676578976tyghy76578uygfyfgcyturtdf
+Github Token is: ghp_hgu657yiujgwfrtigu3ver238765tyuhygvtrder6t7gyvhbuy5e676578976tyghy76578uygfyfgcyturtdf #NOSONAR
 Google API key: zaCELgL0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlx
 Slack Token is: xoxp-7676545380258-uygh
-Slack Token - xoxb-3204014939555-4519358291237-TTIf0243T8YFSAGEVr1wBrWE
+Slack Token - xoxb-3204014939555-4519358291237-TTIf0243T8YFSAGEVr1wBrWE #NOSONAR
 Google API key- KLzaSyB_tWrbmfWx8g2bzL7Vhq7znuTUn0JPKmY"
 My IP Address - 10.55.60.61
 Azure client_secret is de1d4a2d-d9fa-44f1-84bb-4f73c004afda
-"""
+""" #NOSONAR
 
 negative_data = """
 Sachin's SSN is 222-85.
